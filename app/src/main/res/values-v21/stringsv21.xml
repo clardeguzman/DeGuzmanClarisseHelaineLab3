@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Styles and Material Design</string>
+    <string name="image_desc">Kurumba Maldives</string>
+    <string name="location">Location: Vihamanaafushi, North Male Atoll 08340, Maldives</string>
+    <string name="distance">Distance from UST: 5,318 km</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
